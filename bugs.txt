@@ -1,0 +1,7 @@
+ Seguem os erros encontrados:
+  - Page 2: O teste 'Validar campo Switch' aponta erro no componente, pois o mesmo não altera o estado uma vez alterado;
+  - Há algum erro na navegação após efetuar logout, pois as abas somem ao logar novamente, mas às vezes acontece e às vezes não;
+  - Se faz necessário implementar um scrollbar nas páginas, pois os componentes estão ficando escondidos dependendo da resolução ou da disposição dos componentes;
+  - Page 2: No layout em linha alguns componentes ficam desproporcionais;
+  - Na Page 3, ao ir para a Page 2 pelo link ocorre erro 'Página não encontrada';
+  - Os botões 'Preferences' e 'Help' estão sem ações.
